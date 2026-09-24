@@ -1,0 +1,5 @@
+1: Lavar mi ropa
+2: Limpiar mi cuarto
+3: Sacar la basura
+4: Cocinar una rica causa rellena
+5: Tocar un timbre e irme corriendo
